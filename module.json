@@ -35,18 +35,18 @@
   },
   "packs": [
     {
-      "label": "Tarot de Kult",
-      "name": "tarot-de-kult",
+      "label": "Kult Tarot",
+      "name": "kult-tarot",
       "type": "Cards",
       "system": "k4lt",
-      "path": "packs/tarot-de-kult"
+      "path": "packs/kult-tarot"
     },
     {
-      "label": "Scénarios Officiels",
-      "name": "scenarios-officiels",
+      "label": "Official Scenarios",
+      "name": "official-scenarios",
       "type": "Adventure",
       "system": "k4lt",
-      "path": "packs/scenarios-officiels"
+      "path": "packs/official-scenarios"
     }
   ],
     "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-en",
