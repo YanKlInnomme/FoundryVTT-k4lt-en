@@ -5,7 +5,10 @@
 # Module k4lt-en pour Foundry VTT
 Améliorer votre expérience de jeu avec ce module complémentaire en version anglaise pour le système de jeu 'KULT: Divinity Lost (4th Edition)' (k4lt) sur Foundry VTT.
 
-![Capture d’écran 2024-03-25 113313](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/3486d953-22e3-42ec-a28f-c38d3b23fce1)
+![Capture d’écran 2024-03-30 000940](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/4e8f8535-d277-40f6-a2d4-00ae655df786)
+![Capture d’écran 2024-03-30 000748](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/2fabcae3-4ad2-4483-bb9c-0ffccfe293ac)
+![Capture d’écran 2024-03-30 001440](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/19c5ebad-cd4c-4a77-89a6-6ae4f70716cc)
+![Capture d’écran 2024-03-30 001702](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/9a450670-0664-4905-9cb8-f17a18ab645a)
 
 Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre geste serait grandement apprécié et contribuerait à soutenir le développement continu. Quoi qu'il en soit, je vous souhaite une expérience enrichissante et divertissante. N'hésitez pas à me contacter pour partager vos commentaires ou signaler tout problème éventuel.
 
