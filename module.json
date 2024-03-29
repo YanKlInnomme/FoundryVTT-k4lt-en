@@ -1,0 +1,55 @@
+{
+  "id": "k4lt-en",
+  "title": "KULT: Divinity Lost · Extra EN",
+  "description": "Enhance your gaming experience with this English module for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.",
+  "version": "1.0.0",
+  "license": "LICENSE",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "YanK",
+      "url": "yank-solutions.fr",
+      "email": "yanklinnomme@gmail.com",
+      "discord": "yanklinnomme"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "k4lt",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "k4lt-assets",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "Tarot de Kult",
+      "name": "tarot-de-kult",
+      "type": "Cards",
+      "system": "k4lt",
+      "path": "packs/tarot-de-kult"
+    },
+    {
+      "label": "Scénarios Officiels",
+      "name": "scenarios-officiels",
+      "type": "Adventure",
+      "system": "k4lt",
+      "path": "packs/scenarios-officiels"
+    }
+  ],
+    "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-en",
+    "manifest": "",
+    "download": ""
+}
