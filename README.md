@@ -10,7 +10,7 @@ Améliorer votre expérience de jeu avec ce module complémentaire en version an
 ![Capture d’écran 2024-03-30 001440](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/19c5ebad-cd4c-4a77-89a6-6ae4f70716cc)
 ![Capture d’écran 2024-03-30 001702](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/9a450670-0664-4905-9cb8-f17a18ab645a)
 
-Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre geste serait grandement apprécié et contribuerait à soutenir le développement continu. Quoi qu'il en soit, je vous souhaite une expérience enrichissante et divertissante. N'hésitez pas à me contacter pour partager vos commentaires ou signaler tout problème éventuel.
+Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre soutien serait grandement apprécié et contribuerait à la poursuite du développement. Cela me permettra de vous préparer de nouveaux scénarios prêts-à-jouer. Quoi qu'il en soit, j'espère que vous vivrez une expérience enrichissante et agréable. N'hésitez pas à me contacter si vous avez des commentaires ou des questions.
 
 ## Prérequis
 
@@ -22,7 +22,7 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
 Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, autorisé par la [politique de contenu d'Helmgast](https://helmgast.se/en/meta/fan-content-policy). En outre, ce projet inclut :
 
-- **Contenu et logo** : [Kult Divinity Lost] (https://kultdivinitylost.com/) est © 2021 Cabinet Licensing LLC. Tous droits réservés. Les parties de ce projet protégées par ce copyright ne peuvent être distribuées commercialement ou librement. Cela inclut les illustrations, le logo et le texte couverts par le droit d'auteur.
+- **Contenu et logo** : KULT et les logos, personnages, noms et ressemblances qui y sont associés sont des marques commerciales ou des marques déposées de Cabinet Licensing LLC. [Kult Divinity Lost](https://kultdivinitylost.com/) est développé et publié par Helmgast AB. Utilisées avec autorisation. Tous droits réservés. Les parties de ce projet protégées par ce copyright ne peuvent être distribuées commercialement ou librement. Cela inclut les illustrations, le logo et le texte couverts par le droit d'auteur.
 
 - **Code source** : Tout le code source _(javascript, css, etc.)_ est sous licence [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
@@ -30,5 +30,31 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 ## Version 1.0.0
  * Création du module sur la base du module 'k4lt-fr' (https://github.com/YanKlInnomme/FoundryVTT-k4lt-fr)
+ * Ajout du Tarot de Kult et du scénario prêt-à-jouer 'Oakwood Heights' (en anglais)
 
 ---------------------------------------------------------------------
+
+# Module k4lt-en for Foundry VTT
+Enhance your gaming experience with this English version add-on for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.
+
+If you like the module and have the means to do so, you can support me by offering me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support would be greatly appreciated and will aid ongoing development. This will enable me to prepare additional ready-to-play scenarios for you. In any case, I hope you have a rewarding and enjoyable experience. Please feel free to contact me with any comments or issues.
+
+## Prerequisites
+
+In order to function, this module requires the following prerequisites:
+ * 'KULT: Divinity Lost (4th Edition)' (k4lt) system
+ * The k4lt-assets module (containing the necessary resources)
+
+## Licenses
+
+This digital adaptation is unofficial content from KULT: Divinity Lost, licensed under the [Helmgast Content Policy](https://helmgast.se/en/meta/fan-content-policy). In addition, this project includes:
+
+- **Content and logo**: KULT and associated logos, characters, names and likenesses are trademarks or registered trademarks of Cabinet Licensing LLC. [Kult Divinity Lost](https://kultdivinitylost.com/) is developed and published by Helmgast AB. Used with permission. All rights reserved. Portions of this project protected by this copyright may not be distributed commercially or freely. This includes illustrations, logo and text covered by copyright.
+
+- **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+- **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 1.0.0
+ * Creation of the module based on the 'k4lt-en' module (https://github.com/YanKlInnomme/FoundryVTT-k4lt-fr)
+ * Kult Tarot and 'Oakwood Heights' ready-to-play scenario added.
