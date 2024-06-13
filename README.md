@@ -28,6 +28,12 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 1.2.0
+ * Passage à la version 12 de Foundry VTT
+
+## Version 1.1.0
+ * Corrections mineures du scénario 'Oakwood Heights'
+
 ## Version 1.0.0
  * Création du module sur la base du module 'k4lt-fr' (https://github.com/YanKlInnomme/FoundryVTT-k4lt-fr)
  * Ajout du Tarot de Kult et du scénario prêt-à-jouer 'Oakwood Heights' (en anglais)
@@ -54,6 +60,12 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 1.2.0
+ * Update to Foundry VTT version 12
+
+## Version 1.1.0
+ * Minor corrections to the 'Oakwood Heights' scenario
 
 ## Version 1.0.0
  * Creation of the module based on the 'k4lt-en' module (https://github.com/YanKlInnomme/FoundryVTT-k4lt-fr)
