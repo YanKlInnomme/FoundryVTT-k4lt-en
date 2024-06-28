@@ -28,6 +28,10 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 1.3.0
+ * Ajout du scénario prêt-à-jouer 'Gallery of Souls'
+ * Mise à jour des cartes du scénario 'Oakwood Heights' (ajout des notes de scènes, des régions sans météo et téléporteurs)
+
 ## Version 1.2.0
  * Passage à la version 12 de Foundry VTT
 
@@ -61,6 +65,10 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
 
+## Version 1.3.0
+ * Added the 'Gallery of Souls' ready-to-play scenario
+ * Updated the maps of the 'Oakwood Heights' scenario (added scene notes, regions without weather and teleporters)
+
 ## Version 1.2.0
  * Update to Foundry VTT version 12
 
@@ -69,4 +77,4 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 
 ## Version 1.0.0
  * Creation of the module based on the 'k4lt-en' module (https://github.com/YanKlInnomme/FoundryVTT-k4lt-fr)
- * Kult Tarot and 'Oakwood Heights' ready-to-play scenario added.
+ * Added Kult Tarot and 'Oakwood Heights' ready-to-play scenario
