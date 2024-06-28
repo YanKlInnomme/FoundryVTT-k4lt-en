@@ -9,6 +9,8 @@ Améliorer votre expérience de jeu avec ce module complémentaire en version an
 ![Capture d’écran 2024-03-30 000748](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/2fabcae3-4ad2-4483-bb9c-0ffccfe293ac)
 ![Capture d’écran 2024-03-30 001440](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/19c5ebad-cd4c-4a77-89a6-6ae4f70716cc)
 ![Capture d’écran 2024-03-30 001702](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/9a450670-0664-4905-9cb8-f17a18ab645a)
+![Capture d’écran 2024-06-28 110001](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/94cbf535-8125-4023-9da0-592771494f8f)
+![Capture d’écran 2024-06-28 105841](https://github.com/YanKlInnomme/FoundryVTT-k4lt-en/assets/100078854/6add38df-3e62-40e4-b2eb-72efd2c9147b)
 
 Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre soutien serait grandement apprécié et contribuerait à la poursuite du développement. Cela me permettra de vous préparer de nouveaux scénarios prêts-à-jouer. Quoi qu'il en soit, j'espère que vous vivrez une expérience enrichissante et agréable. N'hésitez pas à me contacter si vous avez des commentaires ou des questions.
 
