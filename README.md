@@ -30,6 +30,10 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 1.4.0
+ * Ajout des valeurs d'attributs pour les PNJ dans les scénarios prêts-à-jouer 'Gallery of Souls' et 'Oakwood Heights'
+ * Suppression d'un token 'Joshua Katz' sur le scène 0 du scénario 'Oakwood Heights'
+
 ## Version 1.3.0
  * Ajout du scénario prêt-à-jouer 'Gallery of Souls'
  * Mise à jour des cartes du scénario 'Oakwood Heights' (ajout des notes de scènes, des régions sans météo et téléporteurs)
@@ -66,6 +70,10 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 1.4.0
+ * Added attribute levels for NPCs in the 'Gallery of Souls' and 'Oakwood Heights' ready-to-play scenarios
+ * Removed a 'Joshua Katz' token on scene 0 of the 'Oakwood Heights' scenario
 
 ## Version 1.3.0
  * Added the 'Gallery of Souls' ready-to-play scenario
