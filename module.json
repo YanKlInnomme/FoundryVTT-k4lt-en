@@ -2,12 +2,12 @@
   "id": "k4lt-en",
   "title": "KULT: Divinity Lost · Extra EN",
   "description": "Enhance your gaming experience with this English module for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.",
-  "version": "1.4.0",
+  "version": "1.5.1",
   "license": "LICENSE",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.329",
-    "maximum": "13"
+    "minimum": "13",
+    "verified": "13.348",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -16,6 +16,9 @@
       "email": "yanklinnomme@gmail.com",
       "discord": "yanklinnomme"
     }
+  ],
+  "esmodules": [
+    "k4lt-en.js"
   ],
   "relationships": {
     "systems": [
@@ -33,6 +36,13 @@
       }
     ]
   },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "packs": [
     {
       "label": "Kult Tarot",

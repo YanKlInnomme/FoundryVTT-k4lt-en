@@ -30,6 +30,13 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 1.5.1
+ * Mise à jour des liens de dépôt et de soutien dans l'onglet 'Settings'
+ * Correction des relations dans les fiches PJ du scénario 'Gallery of Souls'
+ * Mise à jour des tokens PJ avec rotation active et vision à 220° pour les scénarios 'Gallery of Souls' et 'Oakwood Heights'
+ * Mise à jour des noms de navigation des scènes pour les scénarios 'Gallery of Souls' et 'Oakwood Heights'
+ * Ajout d'une fonction de régénération automatique des vignettes des scènes à l'importation de l'aventure
+
 ## Version 1.4.0
  * Ajout des valeurs d'attributs pour les PNJ dans les scénarios prêts-à-jouer 'Gallery of Souls' et 'Oakwood Heights'
  * Suppression d'un token 'Joshua Katz' sur le scène 0 du scénario 'Oakwood Heights'
@@ -70,6 +77,13 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 1.5.1
+ * Updated Deposit and Support links in the 'Settings' tab
+ * Fixed relationships in the PC sheets of the 'Gallery of Souls' scenario
+ * Updated PC tokens with active rotation and 220° vision for the 'Gallery of Souls' and 'Oakwood Heights' scenarios
+ * Updated scene navigation names for the 'Gallery of Souls' and 'Oakwood Heights' scenarios
+ * Added an automatic scene thumbnail regeneration function upon adventure import
 
 ## Version 1.4.0
  * Added attribute levels for NPCs in the 'Gallery of Souls' and 'Oakwood Heights' ready-to-play scenarios
