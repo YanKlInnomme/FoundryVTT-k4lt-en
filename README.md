@@ -30,6 +30,10 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.0.0
+ * Mise à jour du module pour la version 14 de Foundry VTT et mise en conformité avec la politique IA
+ * Adaptation des scénarios prêts-à-jouer 'Gallery of Souls' et 'Oakwood Heights' pour la nouvelle version du système de jeu 'KULT: Divinity Lost (4th Edition)' (k4lt)
+
 ## Version 1.5.1
  * Mise à jour des liens de dépôt et de soutien dans l'onglet 'Settings'
  * Correction des relations dans les fiches PJ du scénario 'Gallery of Souls'
@@ -77,6 +81,10 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 2.0.0
+ * Updated the module for Foundry VTT version 14 and compliance with the AI policy
+ * Adapted the ready-to-play scenarios 'Gallery of Souls' and 'Oakwood Heights' for the new version of the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system
 
 ## Version 1.5.1
  * Updated Deposit and Support links in the 'Settings' tab
