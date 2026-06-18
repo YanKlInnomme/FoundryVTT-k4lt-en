@@ -8,7 +8,7 @@
 <img width="1917" height="1005" alt="Capture d&#39;écran 2026-06-18 141154" src="https://github.com/user-attachments/assets/25afd45e-ff9d-460e-9e6e-372f25363ae5" />
 <img width="1919" height="1008" alt="Capture d&#39;écran 2026-06-18 141240" src="https://github.com/user-attachments/assets/a2fccfa0-1110-4fff-99bc-1a4679a204aa" />
 
-**See below for the English version**
+[**See below for the English version**](#Module-k4lt-en-for-Foundry-VTT)
 
 # Module k4lt-en pour Foundry VTT
 Améliorer votre expérience de jeu avec ce module complémentaire en version anglaise pour le système de jeu 'KULT: Divinity Lost (4th Edition)' (k4lt) sur Foundry VTT.
