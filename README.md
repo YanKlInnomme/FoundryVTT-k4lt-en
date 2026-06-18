@@ -1,17 +1,17 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-en%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-en%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-en/total) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-en) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-en) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-en) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-en) [![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black)](https://www.buymeacoffee.com/yank)
 
+<img width="1919" height="1006" alt="Capture d&#39;écran 2026-06-18 140944" src="https://github.com/user-attachments/assets/f02f3a3c-00e0-4760-8c8c-5ffb7b28bdc4" />
+<img width="1919" height="1004" alt="Capture d&#39;écran 2026-06-18 141034" src="https://github.com/user-attachments/assets/39d527a4-0799-465e-ac3b-bb169094be83" />
+<img width="1919" height="1005" alt="Capture d&#39;écran 2026-06-18 141651" src="https://github.com/user-attachments/assets/d45fffe7-86ea-4352-a78f-53ae1f4558a3" />
+<img width="1919" height="1009" alt="Capture d&#39;écran 2026-06-18 141708" src="https://github.com/user-attachments/assets/a369b07e-c410-41d5-8625-9d9e20da0f91" />
+<img width="1919" height="1007" alt="Capture d&#39;écran 2026-06-18 141740" src="https://github.com/user-attachments/assets/88a8d553-8e22-48e8-85d7-00818cbf1f5f" />
+<img width="1917" height="1005" alt="Capture d&#39;écran 2026-06-18 141154" src="https://github.com/user-attachments/assets/25afd45e-ff9d-460e-9e6e-372f25363ae5" />
+<img width="1919" height="1008" alt="Capture d&#39;écran 2026-06-18 141240" src="https://github.com/user-attachments/assets/a2fccfa0-1110-4fff-99bc-1a4679a204aa" />
+
 **See below for the English version**
 
 # Module k4lt-en pour Foundry VTT
 Améliorer votre expérience de jeu avec ce module complémentaire en version anglaise pour le système de jeu 'KULT: Divinity Lost (4th Edition)' (k4lt) sur Foundry VTT.
-
-<img width="1919" height="1005" alt="Capture d'écran 2025-09-16 092903" src="https://github.com/user-attachments/assets/4f8dadf9-906b-4f4c-aa31-cacc91e2c7d9" />
-<img width="1919" height="1005" alt="Capture d'écran 2025-09-15 112719" src="https://github.com/user-attachments/assets/93e5a4f3-28ab-42f7-9d87-ba9994d740bc" />
-<img width="1919" height="1005" alt="Capture d'écran 2025-09-15 152433" src="https://github.com/user-attachments/assets/d32f8f91-9d57-4caf-b1c3-814cc3990764" />
-<img width="1919" height="1008" alt="Capture d'écran 2025-09-16 093623" src="https://github.com/user-attachments/assets/3eec754e-b71a-41b2-8346-866227e63ddb" />
-<img width="1919" height="1006" alt="Capture d'écran 2025-09-16 093057" src="https://github.com/user-attachments/assets/07a9fe5a-2116-4280-9989-0c94ab7e7f72" />
-<img width="1919" height="1006" alt="Capture d'écran 2025-09-16 094047" src="https://github.com/user-attachments/assets/5e76d458-0fb9-48e8-9fe2-afa1882d0d2d" />
-<img width="1919" height="1006" alt="Capture d'écran 2025-09-16 094203" src="https://github.com/user-attachments/assets/2d827c3b-3d15-46fa-88a7-8bbcdd327692" />
 
 Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre soutien serait grandement apprécié et contribuerait à la poursuite du développement. Cela me permettra de vous préparer de nouveaux scénarios prêts-à-jouer. Quoi qu'il en soit, j'espère que vous vivrez une expérience enrichissante et agréable. N'hésitez pas à me contacter si vous avez des commentaires ou des questions.
 
