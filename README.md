@@ -31,6 +31,17 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.1.0
+ * Mise à jour du scénarion 'Gallery of Souls':
+    - Ajout des fiches de personnages pour les PNJs suivants : Bertha Roslin, Carita Schiller, Christian Starcker, Mr. Pickett, Park Guard et Police Officer
+    - Ajout des tokens PNJs sur les scènes correspondantes
+    - Ajout de lumières sur les scènes
+    - Correction de quelques coquilles de traduction dans les journaux
+ * Mise à jour du scénario 'Oakwood Heights':
+    - Ajout des fiches de personnages pour les PNJs suivants : The Four, Amy, Clark Glover, Detroit News, Dominic, Jerome Allen et Lieutenant Pierce
+    - Mise à jour des relations sur les fiches PJs
+    - Rétablissement du lien token/acteur pour Preston Miles
+
 ## Version 2.0.0
  * Mise à jour du module pour la version 14 de Foundry VTT et mise en conformité avec la politique IA
  * Adaptation des scénarios prêts-à-jouer 'Gallery of Souls' et 'Oakwood Heights' pour la nouvelle version du système de jeu 'KULT: Divinity Lost (4th Edition)' (k4lt)
@@ -65,7 +76,7 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 # Module k4lt-en for Foundry VTT
 Enhance your gaming experience with this English version add-on for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.
 
-If you like the module and have the means to do so, you can support me by offering me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support would be greatly appreciated and will aid ongoing development. This will enable me to prepare additional ready-to-play scenarios for you. In any case, I hope you have a rewarding and enjoyable experience. Please feel free to contact me with any comments or issues.
+If you enjoy this module and are in a position to do so, you can support my work by buying me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support is greatly appreciated and helps fund the continued development of this project. Either way, I hope you enjoy using it. If you have any comments, suggestions, or questions, please don't hesitate to get in touch.
 
 ## Prerequisites
 
@@ -82,6 +93,17 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 2.1.0
+ * Updated the 'Gallery of Souls' scenario:
+    - Added character sheets for the following NPCs: Bertha Roslin, Carita Schiller, Christian Starcker, Mr. Pickett, Park Guard and Police Officer
+    - Added NPC tokens on the corresponding scenes
+    - Added lights on the scenes
+    - Fixed some translation typos in the journals
+ * Updated the 'Oakwood Heights' scenario:
+    - Added character sheets for the following NPCs: The Four, Amy, Clark Glover, Detroit News, Dominic, Jerome Allen and Lieutenant Pierce
+    - Updated relationships on PC sheets
+    - Restored token/actor link for Preston Miles
 
 ## Version 2.0.0
  * Updated the module for Foundry VTT version 14 and compliance with the AI policy
