@@ -1,4 +1,25 @@
 // k4lt-en.js
+async function ensureEchoAdventure() {
+  if (!game.user?.isGM) return;
+  const pack = game.packs.get("k4lt-en.official-scenarios");
+  if (!pack) return console.error("KULT Extra EN | Official Scenarios pack not found.");
+  const index = await pack.getIndex({ fields: ["name"] });
+  if (index.some(entry => entry.name === "An Echo From the Past")) return;
+  let wasLocked = pack.locked ?? pack.metadata?.locked ?? false;
+  try {
+    const response = await fetch("modules/k4lt-en/data/an-echo-from-the-past.json");
+    if (!response.ok) throw new Error(`Unable to load adventure data (${response.status})`);
+    const data = await response.json();
+    if (wasLocked) await pack.configure({ locked: false });
+    await Adventure.implementation.createDocuments([data], { pack: pack.collection, keepId: true });
+    ui.notifications.info("KULT Extra EN | An Echo From the Past added to Official Scenarios.");
+  } catch (error) {
+    console.error("KULT Extra EN | Unable to add An Echo From the Past.", error);
+    ui.notifications.error("KULT Extra EN | An Echo From the Past could not be added. See console.");
+  } finally {
+    if (wasLocked && !pack.locked) await pack.configure({ locked: true });
+  }
+}
 Hooks.on("importAdventure", (adventure, data) => {
   kultLogger(`Adventure imported: ${adventure.name}. Waiting 3 seconds before regenerating scene thumbnails...`);
   setTimeout(async () => {

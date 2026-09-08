@@ -31,6 +31,9 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.2.1
+ * Ajout du scénario prêts-à-jouer 'An Echo From the Past'
+
 ## Version 2.1.1
  * Mise à jour mineure sur les fiches de PNJs des scénarios prêts-à-jouer 'Gallery of Souls' et 'Oakwood Heights'
 
@@ -96,6 +99,9 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 2.2.1
+ * Added the ready-to-play scenario 'An Echo From the Past'
 
 ## Version 2.1.1
  * Minor update on NPC sheets of the ready-to-play scenarios 'Gallery of Souls' and 'Oakwood Heights'
