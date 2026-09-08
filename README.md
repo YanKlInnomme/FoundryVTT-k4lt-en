@@ -7,6 +7,7 @@
 <img width="1919" height="1007" alt="Capture d&#39;écran 2026-06-18 141740" src="https://github.com/user-attachments/assets/88a8d553-8e22-48e8-85d7-00818cbf1f5f" />
 <img width="1917" height="1005" alt="Capture d&#39;écran 2026-06-18 141154" src="https://github.com/user-attachments/assets/25afd45e-ff9d-460e-9e6e-372f25363ae5" />
 <img width="1919" height="1008" alt="Capture d&#39;écran 2026-06-18 141240" src="https://github.com/user-attachments/assets/a2fccfa0-1110-4fff-99bc-1a4679a204aa" />
+<img width="1919" height="1054" alt="Capture d&#39;écran 2026-09-08 150725" src="https://github.com/user-attachments/assets/936ce7bf-893a-4608-921a-75388342fff1" />
 
 [**See below for the English version**](#Module-k4lt-en-for-Foundry-VTT)
 
