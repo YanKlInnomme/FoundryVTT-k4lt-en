@@ -1,23 +1,13 @@
-2026/09/08-13:00:00.869 2530 Recovering log #467
-2026/09/08-13:00:00.869 2530 Delete type=0 #467
-2026/09/08-13:00:00.869 2530 Delete type=3 #466
-2026/09/08-13:11:31.536 615c Level-0 table #471: started
-2026/09/08-13:11:31.568 615c Level-0 table #471: 955331 bytes OK
-2026/09/08-13:11:31.570 615c Delete type=0 #469
-2026/09/08-13:11:31.575 615c Manual compaction at level-0 from '!adventures!WBvEoswkh5PscCHS' @ 72057594037927935 : 1 .. '!adventures!aNVqDjY94US2Fi8V' @ 0 : 0; will stop at '!adventures!aNVqDjY94US2Fi8V' @ 42 : 1
-2026/09/08-13:11:31.575 615c Compacting 3@0 + 0@1 files
-2026/09/08-13:11:31.590 615c Generated table #472@0: 2 keys, 353237 bytes
-2026/09/08-13:11:31.590 615c Compacted 3@0 + 0@1 files => 353237 bytes
-2026/09/08-13:11:31.590 615c compacted to: files[ 0 1 2 0 0 0 0 ]
-2026/09/08-13:11:31.590 615c Delete type=2 #457
-2026/09/08-13:11:31.591 615c Delete type=2 #464
-2026/09/08-13:11:31.591 615c Delete type=2 #471
-2026/09/08-13:11:31.596 615c Manual compaction at level-0 from '!adventures!aNVqDjY94US2Fi8V' @ 42 : 1 .. '!adventures!aNVqDjY94US2Fi8V' @ 0 : 0; will stop at (end)
-2026/09/08-13:11:31.598 615c Manual compaction at level-1 from '!adventures!WBvEoswkh5PscCHS' @ 72057594037927935 : 1 .. '!adventures!aNVqDjY94US2Fi8V' @ 0 : 0; will stop at '!adventures!aNVqDjY94US2Fi8V' @ 54 : 1
-2026/09/08-13:11:31.598 615c Compacting 1@1 + 1@2 files
-2026/09/08-13:11:31.613 615c Generated table #473@1: 2 keys, 353237 bytes
-2026/09/08-13:11:31.613 615c Compacted 1@1 + 1@2 files => 353237 bytes
-2026/09/08-13:11:31.613 615c compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/09/08-13:11:31.613 615c Delete type=2 #408
-2026/09/08-13:11:31.613 615c Delete type=2 #472
-2026/09/08-13:11:31.613 615c Manual compaction at level-1 from '!adventures!aNVqDjY94US2Fi8V' @ 54 : 1 .. '!adventures!aNVqDjY94US2Fi8V' @ 0 : 0; will stop at (end)
+2026/09/21-09:41:54.786 5afc Recovering log #608
+2026/09/21-09:41:54.786 5afc Level-0 table #610: started
+2026/09/21-09:41:54.807 5afc Level-0 table #610: 502638 bytes OK
+2026/09/21-09:41:54.808 5afc Delete type=0 #608
+2026/09/21-09:41:54.808 5afc Delete type=3 #607
+2026/09/21-09:41:54.808 3214 Compacting 4@0 + 0@1 files
+2026/09/21-09:41:54.850 3214 Generated table #612@0: 3 keys, 502638 bytes
+2026/09/21-09:41:54.850 3214 Compacted 4@0 + 0@1 files => 502638 bytes
+2026/09/21-09:41:54.850 3214 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-09:41:54.850 3214 Delete type=2 #581
+2026/09/21-09:41:54.850 3214 Delete type=2 #594
+2026/09/21-09:41:54.850 3214 Delete type=2 #605
+2026/09/21-09:41:54.850 3214 Delete type=2 #610

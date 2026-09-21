@@ -32,6 +32,11 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.2.2
+ * Mise à jour des chemins des illustrations de combat à mains nues dans les personnages des scénarios officiels, pour utiliser le dossier weapons du système
+ * Correction des 12 PJ des trois aventures : archétype enregistré comme item distinct du métier, état de conscience explicite. Les caractéristiques et les autres traits sont conservés. Ces données corrigées sont utilisées lors des nouveaux imports
+ * Compatibilité des macros des sept sceaux d’Écho du passé avec les archétypes distincts et l’état de conscience explicite ; suppression d’un import de script absent et résolution des récompenses par identifiant de compendium, indépendamment de la langue. Les macros déjà importées dans un monde doivent être réimportées pour bénéficier de ces corrections
+
 ## Version 2.2.1
  * Ajout du scénario prêts-à-jouer 'An Echo From the Past'
 
@@ -100,6 +105,11 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 2.2.2
+ * Updated unarmed combat image paths on official scenario characters to use the system weapons directory
+ * Corrected all 12 PCs across the three adventures: archetypes are stored as separate items from occupations, consciousness state is explicit. Attributes and other traits are preserved. New imports use these corrected records
+ * Updated the seven seal macros in An Echo From the Past for separate archetype items and explicit consciousness states; removed a missing script import and resolved rewards by compendium ID independently of language. Macros already imported into a world must be reimported to receive these fixes
 
 ## Version 2.2.1
  * Added the ready-to-play scenario 'An Echo From the Past'

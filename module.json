@@ -2,11 +2,11 @@
   "id": "k4lt-en",
   "title": "KULT: Divinity Lost · Extra EN",
   "description": "Enhance your gaming experience with this English module for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "14",
-    "verified": "14.367",
+    "verified": "14.368",
     "maximum": "15"
   },
   "authors": [
