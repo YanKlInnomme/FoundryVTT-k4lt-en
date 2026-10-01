@@ -32,6 +32,10 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.2.3
+ * Corrections mineures de la mise en page et de la structure des journaux du scénario 'An Echo From the Past'
+ * Correction de la régénération des vignettes des scènes après importation d’une aventure pour Foundry VTT 14
+
 ## Version 2.2.2
  * Mise à jour des chemins des illustrations de combat à mains nues dans les personnages des scénarios officiels, pour utiliser le dossier weapons du système
  * Correction des 12 PJ des trois aventures : archétype enregistré comme item distinct du métier, état de conscience explicite. Les caractéristiques et les autres traits sont conservés. Ces données corrigées sont utilisées lors des nouveaux imports
@@ -105,6 +109,10 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source code**: All source code _(javascript, css, etc.)_ is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created under the [Foundry VTT Limited License Agreement for Package Development](https://foundryvtt.com/article/license/).
+
+## Version 2.2.3
+ * Minor corrections to the layout and structure of journals in 'An Echo From the Past'
+ * Fixed scene thumbnail regeneration after adventure import for Foundry VTT 14
 
 ## Version 2.2.2
  * Updated unarmed combat image paths on official scenario characters to use the system weapons directory

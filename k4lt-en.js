@@ -26,7 +26,7 @@ Hooks.on("importAdventure", (adventure, data) => {
     for (const scene of game.scenes.contents) {
       try {
         kultLogger(`Regenerating thumbnail for: ${scene.name}`);
-        const thumb = await scene.createThumbnail({ img: scene.background.src });
+        const thumb = await scene.createThumbnail();
         await scene.update({ thumb: thumb.thumb });
       } catch (err) {
         kultLogger(`Error regenerating thumbnail for scene ${scene.name}`, err);
